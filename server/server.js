@@ -6,7 +6,7 @@ const app = express();
 
 app.use(cors());
 
-app.use("/airports", airportRouter);
+app.use("/api/airports", airportRouter);
 
 const PORT = process.env.PORT || 3001;
 
