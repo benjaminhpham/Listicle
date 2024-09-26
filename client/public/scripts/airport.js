@@ -48,7 +48,7 @@ const fetchAirport = async (app, airport_id) => {
       const returnButtonEl = createElement(
         "button",
         "return-button",
-        "View Ranking"
+        "View All Airports"
       );
 
       returnButtonEl.addEventListener("click", () => {
