@@ -1,4 +1,4 @@
-# WEB103 Project 1 - *Listicle*
+# WEB103 Project 1 - _Listicle_
 
 Submitted by: **Huy Pham**
 
@@ -11,11 +11,12 @@ Time spent: **10** hours including styling
 The following **required** functionality is completed:
 
 <!-- Make sure to check off completed functionality below -->
+
 - [x] **The web app uses only HTML, CSS, and JavaScript without a frontend framework**
 - [x] **The web app displays a title**
 - [x] **The web app displays at least five list items, each with at least three attributes (such as title, text, and image url)**
 - [x] **The user can click on each item in the list to see a detailed view of it, including all database fields**
-- [x] *Note: When showing this feature in the video walkthrough, please show the unique URL for each detailed view. We will not be able to give points if we cannot see the implementation* 
+- [x] _Note: When showing this feature in the video walkthrough, please show the unique URL for each detailed view. We will not be able to give points if we cannot see the implementation_
 - [x] **The web app serves an appropriate 404 page when no matching route is defined**
 - [ ] **The web app is appropriately styled using Picocss**
 
@@ -29,18 +30,13 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-**Note: please be sure to 
+\*\*Note: please be sure to
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./client/public/Kapture 2024-09-26 at 00.35.44.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  Add GIF tool here
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+![Demo of the app](./client/public/Kapture%202024-09-26%20at%2000.35.44.gif)
 
 ## Notes
 
