@@ -1,18 +1,10 @@
 import express from "express";
-import airportData from "../data/airportData.js";
+import airportController from "../controllers/airportController.js";
 
 const router = express.Router();
 
-router.get("/", (req, res) => {
-  res.status(200).json(airportData);
-});
+router.get("/", airportController.getAirports);
 
-router.get("/:airport_id", (req, res) => {
-  const { airport_id } = req.params;
-  const foundAirport = airportData.find(
-    (airport) => airport.id === parseInt(airport_id)
-  );
-  res.status(200).json(foundAirport);
-});
+router.get("/:airport_id", airportController.getAirportById);
 
 export default router;

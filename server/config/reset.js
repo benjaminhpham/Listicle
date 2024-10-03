@@ -1,6 +1,6 @@
-import { pool } from "./database";
-import "./dotenv";
-import airportData from "../data/airportData";
+import { pool } from "./database.js";
+import "./dotenv.js";
+import airportData from "../data/airportData.js";
 
 const createAirportsTable = async () => {
   const createAirportsQuery = `
@@ -15,7 +15,7 @@ const createAirportsTable = async () => {
       code VARCHAR(255) NOT NULL,
       image TEXT NOT NULL,
       passengers INTEGER NOT NULL,
-      percentageChange DOUBLE NOT NULL,
+      percentageChange DECIMAL NOT NULL
     )
   `;
 
