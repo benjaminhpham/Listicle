@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![Demo GIF](client/public/assets/Kapture 2024-10-03 at 00.18.57.gif)
+![Demo GIF](./client/public/assets/client/public/assets/Kapture 2024-10-03 at 00.18.57.gif)
  
 ## Notes
 
