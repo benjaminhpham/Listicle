@@ -18,7 +18,12 @@ The following **required** functionality is completed:
 - [x] **The user can click on each item in the list to see a detailed view of it, including all database fields**
 - [x] _Note: When showing this feature in the video walkthrough, please show the unique URL for each detailed view. We will not be able to give points if we cannot see the implementation_
 - [x] **The web app serves an appropriate 404 page when no matching route is defined**
+
 - [ ] **The web app is appropriately styled using Picocss**
+- [x] **The web app uses only HTML, CSS, and JavaScript without a frontend framework**
+- [x] **The web app is connected to a PostgreSQL database, with an appropriately structured database table for the list items**
+- [x] **The PostgreSQL database includes a table that matches the data displayed in the web app**
+- [ ] **NOTE: Your GIF or a screenshot added to the README must include a view of your Railway database that shows the contents of the table used by your app**
 
 The following **optional** features are implemented:
 
@@ -34,10 +39,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='./client/public/Kapture 2024-09-26 at 00.35.44.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-![Demo of the app](./client/public/Kapture%202024-09-26%20at%2000.35.44.gif)
-
+![Demo GIF](assets/Kapture 2024-10-03 at 00.18.57.gif)
+ 
 ## Notes
 
 Describe any challenges encountered while building the app or any additional context you'd like to add.
