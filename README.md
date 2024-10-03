@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![Demo GIF](./client/public/assets/client/public/assets/Kapture%202024-10-03%20at%2000.18.57.gif)
+![Demo GIF](https://github.com/benjaminhpham/Listicle/raw/main/client/public/assets/Kapture%202024-10-03%20at%2000.18.57.gif)
 
 ## Notes
 
