@@ -1,6 +1,7 @@
 import express from "express";
 import airportRouter from "./routes/airportRoutes.js";
 import cors from "cors";
+// import "./config/dotenv.js";
 
 const app = express();
 
